@@ -4,3 +4,5 @@ target/
 *.swp
 **/*.jar
 test1-report.html
+test2-report.html
+
